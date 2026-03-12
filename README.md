@@ -20,3 +20,10 @@ A Unity project (2022.3 LTS).
 ## Requirements
 
 - Unity 2022.3.x (LTS) or compatible 2022.3 version
+
+## Why Unity?
+
+- Unity provides a **mature 3D engine** with built-in tooling (scene editor, lighting, physics) that fits an explorable park environment well.
+- The **cross-platform build pipeline** makes it straightforward to target desktop, web, and potentially mobile builds from the same project.
+- The **component-based workflow** (GameObjects + MonoBehaviours) maps naturally to park attractions, points of interest, and interactive UI elements.
+- A large ecosystem of **packages, assets, and learning resources** reduces implementation time for navigation, UI, and environment art.
